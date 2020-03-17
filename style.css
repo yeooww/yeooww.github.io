@@ -72,7 +72,8 @@ a:hover {
 
 .post {
   max-width: 800px;
-  margin: 5 auto;
+  margin: 0 auto;
+  padding-top: 40px;
 }
 
 .post-author img{
@@ -83,7 +84,7 @@ a:hover {
 }
 
 .post-content {
-  padding-bottom: 50px;
+  padding-bottom: 0;
 
 
 }
@@ -111,6 +112,7 @@ p {
 .post, .about {
   max-width: 800px;
   margin: 0 auto;
+  padding-top: 60px
 }
 .about {
   text-align: center;
