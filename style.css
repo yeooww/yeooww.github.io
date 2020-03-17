@@ -76,7 +76,7 @@ a:hover {
 }
 .post-author img{
   width: 50px;
-  height: 50px;
+  height: 70px;
   vertical-align: middle;
 }
 
@@ -109,7 +109,12 @@ p {
 .about {
   text-align: center;
 }
+
 .post-author img,
 .about-author img {
   boreder-radius: 50;
+}
+
+.post-container: nth-child(even) {
+  background-color: #f2f2f2;
 }
